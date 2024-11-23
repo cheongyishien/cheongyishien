@@ -1,7 +1,9 @@
+# Welcome to my profile🙈🙈!
 - 👋 Hi, I’m @cheongyishien
-- 😄 Call me #Cheong
-- 🌱 I’m currently learning data engineering
-- 📫 Reach me through cheongyishien@graduate.utm.my
+- 🐣 Can call me #Cheong
+- 📅 Born in May 2005
+- 👨‍🎓I’m currently study about data engineering
+- 📩 Reach me through cheongyishien@graduate.utm.my
 
 <!---
 cheongyishien/cheongyishien is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
