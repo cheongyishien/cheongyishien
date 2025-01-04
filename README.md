@@ -1,4 +1,4 @@
-# Welcome to my profile🙈🙈!
+# Introduce myself
 - 👋 Hi, I’m @cheongyishien
 - 🐣 Can call me #Cheong
 - 📅 Born in May 2005
