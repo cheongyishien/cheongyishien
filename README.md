@@ -14,12 +14,16 @@ cheongyishien/cheongyishien is a ✨ special ✨ repository because its `README.
 You can click the Preview link to take a look at your changes.
 --->
 
+
+
 # Education 👨‍🎓
 
 -2012-2017    Primary School        :SJK(C) Peng Min, Alor Setar, Kedah.
 -2018-2022    Secondary School      :SMJK Keat Hwa, Alor Setar, Kedah.
 -2023-2024    Matriculation         :Kedah Matriculation College, Changlun, Kedah.
 -2024-2028    Degree level          :University Technology Malaysia (UTM), Johor.
+
+
 
 # Position 👨‍⚖️
  **2014-2017**
@@ -39,6 +43,8 @@ Active member Wushu Club (2021-2022)
 
 Sekretariat Rukun Negara (SRN)
 Committee SRN (2023-2024)
+
+
 
 # Skills 💪
 
