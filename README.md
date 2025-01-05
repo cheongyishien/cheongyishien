@@ -16,7 +16,7 @@ You can click the Preview link to take a look at your changes.
 
 
 
-# Education 👨‍🎓
+# Education ⛪
 
 -2012-2017    Primary School        :SJK(C) Peng Min, Alor Setar, Kedah.
 -2018-2022    Secondary School      :SMJK Keat Hwa, Alor Setar, Kedah.
@@ -24,7 +24,10 @@ You can click the Preview link to take a look at your changes.
 -2024-2028    Degree level          :University Technology Malaysia (UTM), Johor.
 
 
+ # Degree Courses 👩‍🎓
+	Bachelor of Computer Science (Data Engineering) With Honours
 
+ 
 # Position 👨‍⚖️
  **2014-2017**
  
@@ -47,4 +50,10 @@ Committee SRN (2023-2024)
 
 
 # Skills 💪
+-Able to master simple java and c++
+-English: ★★★★☆ (4 stars) 🌐
+-Bahasa Malaysia: ★★★★☆ (4 stars)
+-Mandarin: ★★★★☆ (4 stars)
 
+
+ 
