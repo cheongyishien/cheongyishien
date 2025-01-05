@@ -25,26 +25,33 @@ You can click the Preview link to take a look at your changes.
 
 
  # Degree Courses 👩‍🎓
-	Bachelor of Computer Science (Data Engineering) With Honours
+Bachelor of Computer Science (Data Engineering) With Honours
 
  
 # Position 👨‍⚖️
  **2014-2017**
  
  Librarian
+ 
  Chairman of librarian (2016-2017)
+ 
  Chairman of natural loving federation club (2016-2017)
 
 **2019-2022**
 
 Pembimbing Rakan Sebaya(PRS)
+
 Auditor PRS (2021-2022)
+
 Auditor Home Economics Club (2021-2022)
+
 Active member Wushu Club (2021-2022)
+
 
 **2023-2024**
 
 Sekretariat Rukun Negara (SRN)
+
 Committee SRN (2023-2024)
 
 
