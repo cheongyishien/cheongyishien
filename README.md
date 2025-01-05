@@ -51,8 +51,11 @@ Committee SRN (2023-2024)
 
 # Skills 💪
 -Able to master simple java and c++
+
 -English: ★★★★☆ (4 stars) 🌐
+
 -Bahasa Malaysia: ★★★★☆ (4 stars)
+
 -Mandarin: ★★★★☆ (4 stars)
 
 
